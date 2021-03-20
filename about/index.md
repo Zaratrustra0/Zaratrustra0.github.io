@@ -12,11 +12,7 @@ comments: false
 
 <center>&nbsp;</center>
 
-<center>&nbsp;</center>
-
 <center><p>Summer before the Fall.</p><p>Fog before sunrise.</p><p>Rain in the forest.</p><p>Petals must fall.</p><p>Blood in the mud.</p><p>The tide rises. And the tide falls.</p></center>
-
-<center>&nbsp;</center>
 
 <center>&nbsp;</center>
 
