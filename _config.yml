@@ -1,14 +1,14 @@
 # Site
 title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Petals must fall.'
+description:        "This site records my learning."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://www.petal.ml
 
 # Jekyll
 permalink:          /:title/
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:            suliuzhe@outlook.com
 twitter:            username
 facebook:           username
 github-url:         username
@@ -50,7 +50,7 @@ instagram:          username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              maxwell_sustc
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
