@@ -1,10 +1,10 @@
 # Site
 title:              Moon
 bio:                'Rain in the forest. Petals must fall.'
-description:        "This site records my learning."
+description:        "This site records my learning and me."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpg'
 background:         'assets/img/sky.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
